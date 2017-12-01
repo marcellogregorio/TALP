@@ -1,0 +1,176 @@
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\ApplicationInsights.config
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Projato.Web.dll.config
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Projato.Web.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Projato.Web.pdb
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Antlr3.Runtime.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AI.Web.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.ApplicationInsights.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Newtonsoft.Json.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\System.Web.Optimization.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\WebGrease.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\System.Web.Optimization.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Antlr3.Runtime.pdb
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Newtonsoft.Json.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.ApplicationInsights.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Microsoft.AI.Web.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\pt-br\System.Web.Optimization.resources.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\obj\Debug\Projato.Web.csprojResolveAssemblyReference.cache
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\obj\Debug\Projato.Web.csproj.CoreCompileInputs.cache
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\obj\Debug\Projato.Web.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\obj\Debug\Projato.Web.pdb
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Projato.Dados.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\EntityFramework.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Projato.Dados.pdb
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\Projato.Dados.dll.config
+c:\users\jucinei.santos\source\repos\Projato\Projato.Web\bin\EntityFramework.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\ApplicationInsights.config
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Projato.Web.dll.config
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Projato.Web.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Projato.Web.pdb
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Antlr3.Runtime.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\AspNet.ScriptManager.bootstrap.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\AspNet.ScriptManager.jQuery.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AI.Agent.Intercept.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AI.DependencyCollector.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AI.Web.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AI.WindowsServer.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.ApplicationInsights.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.ScriptManager.WebForms.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Newtonsoft.Json.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Projato.Dados.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\System.Web.Optimization.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\WebGrease.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\EntityFramework.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Projato.Dados.pdb
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Projato.Dados.dll.config
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\System.Web.Optimization.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Antlr3.Runtime.pdb
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Newtonsoft.Json.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.ApplicationInsights.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AI.DependencyCollector.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AI.WindowsServer.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\Microsoft.AI.Web.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\EntityFramework.xml
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\pt-br\System.Web.Optimization.resources.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\obj\Debug\Projato.Web.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\obj\Debug\Projato.Web.dll
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\obj\Debug\Projato.Web.pdb
+\\psf\Home\Desktop\Projato\Projato\Projato.Web\obj\Debug\Projato.Web.csproj.CoreCompileInputs.cache
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\ApplicationInsights.config
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Projato.Web.dll.config
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Projato.Web.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Projato.Web.pdb
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Antlr3.Runtime.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\AspNet.ScriptManager.bootstrap.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\AspNet.ScriptManager.jQuery.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AI.Agent.Intercept.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AI.DependencyCollector.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AI.Web.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AI.WindowsServer.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.ApplicationInsights.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.ScriptManager.WebForms.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Newtonsoft.Json.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Projato.Dados.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\System.Web.Optimization.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\WebGrease.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\EntityFramework.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Projato.Dados.pdb
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Projato.Dados.dll.config
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\System.Web.Optimization.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Antlr3.Runtime.pdb
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Newtonsoft.Json.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.ApplicationInsights.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AI.DependencyCollector.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AI.WindowsServer.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\Microsoft.AI.Web.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\EntityFramework.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\pt-br\System.Web.Optimization.resources.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\obj\Debug\Projato.Web.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\obj\Debug\Projato.Web.csproj.CoreCompileInputs.cache
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\obj\Debug\Projato.Web.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Web\obj\Debug\Projato.Web.pdb
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\ApplicationInsights.config
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Projato.Web.dll.config
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Projato.Web.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Projato.Web.pdb
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Antlr3.Runtime.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Newtonsoft.Json.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Projato.Dados.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\System.Web.Optimization.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\WebGrease.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\EntityFramework.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Projato.Dados.pdb
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Projato.Dados.dll.config
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\System.Web.Optimization.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Newtonsoft.Json.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\EntityFramework.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\obj\Debug\Projato.Web.csprojResolveAssemblyReference.cache
+C:\Users\Marcello\source\repos\Projato\Projato.Web\obj\Debug\Projato.Web.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\source\repos\Projato\Projato.Web\obj\Debug\Projato.Web.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Web\obj\Debug\Projato.Web.pdb

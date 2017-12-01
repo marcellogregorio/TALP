@@ -1,0 +1,42 @@
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Repositorio.dll.config
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Repositorio.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Repositorio.pdb
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\bin\Debug\EntityFramework.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Dados.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Dados.pdb
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Dados.dll.config
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\bin\Debug\EntityFramework.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.csprojResolveAssemblyReference.cache
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.csproj.CoreCompileInputs.cache
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.dll
+c:\users\jucinei.santos\source\repos\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.pdb
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\bin\Debug\Projato.Repositorio.dll.config
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\bin\Debug\Projato.Repositorio.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\bin\Debug\Projato.Repositorio.pdb
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\bin\Debug\EntityFramework.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\bin\Debug\Projato.Dados.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\bin\Debug\Projato.Dados.pdb
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\bin\Debug\Projato.Dados.dll.config
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\bin\Debug\EntityFramework.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.csproj.CoreCompileInputs.cache
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.dll
+\\psf\Home\Desktop\Projato - Copia\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.pdb
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Repositorio.dll.config
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Repositorio.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Repositorio.pdb
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Dados.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Dados.pdb
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\bin\Debug\Projato.Dados.dll.config
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.dll
+C:\Users\Marcello\source\repos\Projato\Projato.Repositorio\obj\Debug\Projato.Repositorio.pdb
